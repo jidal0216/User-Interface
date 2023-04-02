@@ -80,7 +80,7 @@
                         android:layout_below="@id/lover"
                         android:layout_centerHorizontal="true"
                         android:layout_marginTop="10dp"
-                        android:text="현재 나의 폐 상태"
+                        android:text="현재 나의 간 상태"
                         android:textSize="20sp" />
 
                     <ImageView
